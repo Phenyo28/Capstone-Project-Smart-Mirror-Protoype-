@@ -19,3 +19,11 @@ With this smart mirror, users can:
 - 32GB Micro SD Card (with Raspberry Pi OS)
 - Power Supply (5V/3A for Pi, 12V/2A for display if needed)
 - Monitor/Screen frame or DIY 3D housing
+
+## Software Stack
+1. Raspberry Pi OS as your base.
+2. Python as your main language.
+3. OpenCV + MediaPipe for the core AR camera magic.
+4. TensorFlow Lite for the on-device AI analysis.
+5. Kivy or PyGame to build the user interface around the video feed.
+6. python-vlc to play tutorial videos in the background.
