@@ -27,3 +27,17 @@ With this smart mirror, users can:
 4. TensorFlow Lite for the on-device AI analysis.
 5. Kivy or PyGame to build the user interface around the video feed.
 6. python-vlc to play tutorial videos in the background.
+---
+
+## Smart–AR Mirror Prototype: Action/Performance Flow
+
+1. Start → User stands in front of the mirror.
+2. Capture → Raspberry Pi Camera records the user’s face and/or hair.
+3. Processing → Computer vision (OpenCV/Mediapipe) detects the face, hair, and skin regions.
+4. Select Core Feature → User chooses one of the main modes:
+- Hairstyle AR Overlay → Different hairstyles are projected onto the user’s reflection.
+- Makeup AR Overlay → Virtual makeup looks (lipstick, eyeshadow, foundation) are applied in real time.
+- Skin & Hair Analysis → Camera captures close-up details to assess basic skin/hair condition (e.g., dryness, acne, hair thickness).
+- Tutorials/Entertainment → Mirror plays makeup tutorials, hair styling videos, or music.
+5. Output → Results are displayed live on the mirror screen, allowing the user to interact with the AR overlays or content.
+6. End → User can switch between features or exit.
