@@ -41,3 +41,6 @@ With this smart mirror, users can:
 - Tutorials/Entertainment → Mirror plays makeup tutorials, hair styling videos, or music.
 5. Output → Results are displayed live on the mirror screen, allowing the user to interact with the AR overlays or content.
 6. End → User can switch between features or exit.
+
+<img width="1235" height="617" alt="Screenshot 2025-09-10 113918" src="https://github.com/user-attachments/assets/fe5ddf67-7e9f-4938-9b4c-a99cadcc726d" />
+---
