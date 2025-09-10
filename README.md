@@ -45,3 +45,37 @@ With this smart mirror, users can:
 ## Action/ Perfomance Flow Diagram
 <img width="1235" height="617" alt="Screenshot 2025-09-10 113918" src="https://github.com/user-attachments/assets/fe5ddf67-7e9f-4938-9b4c-a99cadcc726d" />
 ---
+
+
+            +---------------------+           +--------------------+
+            | 12V  2A Adapter     |           | 5V  3A USB-C PSU   |
+            | (for LCD)          |           | (for Raspberry Pi) |
+            +---------+-----------+           +---------+----------+
+                      |                                 |
+                      | 12V DC                          | 5V USB-C
+                      |                                 |
+                 +----v----+                      +-----v----------------+
+                 | 7" LCD  |<---HDMI Cable--------| Raspberry Pi 4       |
+                 | (HDMI)  |                      | (Main Controller)    |
+                 +----+----+                      +--+--+--+--+--+--+----+
+                      |                                |  |  |  |  |
+                      | Two-way mirror (mechanical)     |  |  |  |  |
+                      | in front of LCD                  |  |  |  |  |
+                                                      CSI  USB HDMI GPIO 3.5mm
+                                                       |     |    |      (opt)
+                                                       |     |    |
+                                                 +-----v-+   |    +---> Speaker
+                                                 | PiCam |   |         (USB or BT)
+                                                 +-------+   |
+                                                             |
+                                                             +----> USB keyboard / mouse (setup)
+                                                             |
+                                                             +----> USB Speaker / Mic (optional)
+
+                                                             +----> (GPIO pins)
+                                                                    |
+                                                    +---------------+-------------------+
+                                                    |               |                   |
+                                         LED Driver/MOSFET       Optional Sensors     (etc.)
+                                         (N-channel MOSFET)      DHT22 / PIR / Light
+                                         5V supply (common GND)     -> GPIO pins
