@@ -29,6 +29,15 @@ With this smart mirror, users can:
 6. python-vlc to play tutorial videos in the background.
 ---
 
+## Software Development Workflow
+
+1. Plan Features → Define core functions (time/date, camera, AR overlays, skin/hair analysis). Install Raspberry Pi OS → Flash OS and configure environment.
+2. Install Core Software → MagicMirror², Python, OpenCV, TensorFlow Lite/MediaPipe.
+3. Test Software → Run sample scripts for camera, overlays, and detection.
+4. Develop Features → Build modules (calendar, weather, tutorials), AR overlays, and analysis scripts.
+5. Prepare for Integration → Keep modular code for smooth hardware connection later.
+
+---
 ##  Action/Performance Flow
 
 1. Start → User stands in front of the mirror.
