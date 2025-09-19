@@ -20,6 +20,21 @@ With this smart mirror, users can:
 - Power Supply (5V/3A for Pi, 12V/2A for display if needed)
 - Monitor/Screen frame or DIY 3D housing
 
+## Hardware Comparison
+
+| Feature              | Raspberry Pi Zero 2 W            | Raspberry Pi 4 |
+|----------------------|----------------------------------|----------------|
+| **CPU**             | 1GHz quad-core Cortex-A53        | 1.5GHz quad-core Cortex-A72 |
+| **RAM**             | 512MB                            | 2GB / 4GB / 8GB |
+| **Performance**     | Handles lightweight modules, may lag with multiple/heavy ones | Smooth with multiple & intensive modules |
+| **Display Support** | Single micro-HDMI (up to 1080p)  | Dual 4K HDMI outputs |
+| **Connectivity**    | Wi-Fi 4, Bluetooth 4.2, micro-USB OTG | USB 3.0, Gigabit Ethernet, Wi-Fi 5, Bluetooth 5.0 |
+| **Power Use**       | Very low consumption (~2.5W)     | Higher (~5–7W), but justified by performance |
+
+
+For this project, the **Raspberry Pi 4** is chosen because it supports more demanding MagicMirror² modules, ensures better connectivity, and allows for future scalability. The **Pi Zero 2 W** is more suitable for lightweight, budget, or ultra-low-power builds.
+
+---
 ## Software Stack
 1. Raspberry Pi OS as the base.
 2. Python as the main language.
