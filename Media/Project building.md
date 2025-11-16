@@ -1,6 +1,8 @@
 ### Magic mirror
 <img width="874" height="598" alt="image" src="https://github.com/user-attachments/assets/0bfc37dc-ff18-4c52-aad7-029133c1dd74" />
 
+<img width="822" height="579" alt="image" src="https://github.com/user-attachments/assets/efb29698-dfec-4ca5-ba52-f79df0addbeb" />
+
 ### Getting started with the hardware
 <img width="979" height="551" alt="image" src="https://github.com/user-attachments/assets/e41658ec-d1ec-4838-b226-db42633f274d" />
 
