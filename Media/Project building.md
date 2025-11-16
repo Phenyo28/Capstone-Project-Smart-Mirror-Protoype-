@@ -1,3 +1,9 @@
+### Raspberry Pi OS Desktop
+<img width="887" height="498" alt="image" src="https://github.com/user-attachments/assets/a1b21344-c9c0-4b0c-8010-b6fcc3f8aaaa" />
+
+### Magic Mirror Installation
+<img width="942" height="493" alt="image" src="https://github.com/user-attachments/assets/89ed02fd-8783-45c1-8187-5bacbea59eb2" />
+
 ### Magic mirror
 <img width="874" height="598" alt="image" src="https://github.com/user-attachments/assets/0bfc37dc-ff18-4c52-aad7-029133c1dd74" />
 
