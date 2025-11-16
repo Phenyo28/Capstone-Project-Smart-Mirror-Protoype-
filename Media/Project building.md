@@ -3,6 +3,11 @@
 
 <img width="822" height="579" alt="image" src="https://github.com/user-attachments/assets/efb29698-dfec-4ca5-ba52-f79df0addbeb" />
 
+### SSH
+<img width="976" height="582" alt="image" src="https://github.com/user-attachments/assets/0a76e054-508e-40cb-915d-5b01866ed133" />
+
+<img width="976" height="582" alt="image" src="https://github.com/user-attachments/assets/fb6f4143-b0e1-4a2c-9895-43f0cde57de5" />
+
 ### Getting started with the hardware
 <img width="979" height="551" alt="image" src="https://github.com/user-attachments/assets/e41658ec-d1ec-4838-b226-db42633f274d" />
 
