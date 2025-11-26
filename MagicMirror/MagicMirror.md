@@ -1,1 +1,2 @@
-
+# Magic mirror
+MagicMirror² is an open-source modular smart mirror platform that displays customizable information on a mirror-like screen. This project allows users to integrate real-time data such as time, weather, calendar events, news feeds, and more, while also supporting advanced features like facial landmark detection and AR overlays. The modular architecture makes it easy to add, remove, or configure modules according to personal preferences, and it can be automated to start on boot using PM2. This repository contains my setup, installation instructions, configuration details, and custom modules implemented for a personalized smart mirror experience.
