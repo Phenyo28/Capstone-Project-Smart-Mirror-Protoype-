@@ -22,21 +22,30 @@ while True:
         print("Camera not found")
         break
 
-    # Convert to RGB for fdlite
+    # Convert BGR → RGB for fdlite
     rgb = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
     faces = detector(rgb)
 
     if faces:
-        # Take the first detected face
-        face = faces[0]
-        x, y, w, h = map(int, face.bbox)
-        face_img = frame[y:y+h, x:x+w]
+        face = faces[0]  # first detected face
+
+        # Convert normalized bbox to pixel coordinates
+        h_frame, w_frame = frame.shape[:2]
+        xmin = int(face.bbox.xmin * w_frame)
+        ymin = int(face.bbox.ymin * h_frame)
+        xmax = int(face.bbox.xmax * w_frame)
+        ymax = int(face.bbox.ymax * h_frame)
+
+        # Crop face region
+        x, y = xmin, ymin
+        bw, bh = xmax - xmin, ymax - ymin
+        face_img = frame[y:y+bh, x:x+bw]
 
         # Skin analysis
         brightness, oiliness, redness, texture = analyze_skin(face_img)
 
         # Draw bounding box
-        cv2.rectangle(frame, (x, y), (x+w, y+h), (0, 255, 0), 2)
+        cv2.rectangle(frame, (x, y), (x+bw, y+bh), (0, 255, 0), 2)
 
         # Display metrics on the same window
         cv2.putText(frame, f"Brightness: {brightness:.1f}", (10,40),
@@ -48,6 +57,7 @@ while True:
         cv2.putText(frame, f"Texture: {texture:.1f}", (10,130),
                     cv2.FONT_HERSHEY_SIMPLEX, 0.7, (255,255,255), 2)
 
+    # Show a single window
     cv2.imshow("Skin Analysis", frame)
 
     # Press 'q' to quit
