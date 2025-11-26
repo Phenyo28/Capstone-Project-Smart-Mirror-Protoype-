@@ -29,37 +29,37 @@ Uses:
 
 3. Smoothness Detection
 Estimates skin texture using:
-Laplacian variance (measures sharpness)
-Higher variance → more visible texture
-Lower variance → smoother skin appearance
+- Laplacian variance (measures sharpness)
+- Higher variance → more visible texture
+- Lower variance → smoother skin appearance
 Used to approximate:
-Presence of texture
-Small bumps
-Blurriness (if camera is out of focus)
+- Presence of texture
+- Small bumps
+- Blurriness (if camera is out of focus)
 
 4. Uneven Skin Tone Detection
 Detects unevenness by:
-Converting the face region to LAB color space
-Analyzing the “L” (lightness) and “A/B” (color) channels
-Checking for abrupt changes in color values
+- Converting the face region to LAB color space
+- Analyzing the “L” (lightness) and “A/B” (color) channels
+- Checking for abrupt changes in color values
 Useful for:
-Hyperpigmentation
-Dark spots
-Redness
-Discoloration
+- Hyperpigmentation
+- Dark spots
+- Redness
+- Discoloration
 
 5. ROI Extraction (Region of Interest)
 Uses facial landmarks to extract:
-Forehead
-Cheeks
-Chin
+- Forehead
+- Cheeks
+- Chin
 These regions are used for:
-Tone comparison
-Texture analysis
-Lighting adjustments
+- Tone comparison
+- Texture analysis
+- Lighting adjustments
 Landmarks come from:
-A lightweight face detection model
-Dlib 68 landmarks or your custom solution
+- A lightweight face detection model
+- Dlib 68 landmarks or your custom solution
 
 6. Camera + Face Landmarks Code
 This feature includes:
