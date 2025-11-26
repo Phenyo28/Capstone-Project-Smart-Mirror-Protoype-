@@ -21,6 +21,7 @@ Real-time lipstick application using landmark points (mouth region).
 Features:
 - Automatically detects upper & lower lips
 - Scales and rotates the lip PNG to match the user's lip shape
+
 Supports multiple lip PNGs:
 - `purple_lip.png`
 - `red_lip.png`
