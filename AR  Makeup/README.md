@@ -14,7 +14,7 @@ These features run in real-time using face landmarks, OpenCV, and custom overlay
 ---
 
 ### Features Included
-####1. Lip Overlay System
+#### 1. Lip Overlay System
 Real-time lipstick application using landmark points (mouth region).
 Features:
 - Automatically detects upper & lower lips
