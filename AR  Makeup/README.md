@@ -74,3 +74,6 @@ File:
 `afro_ponies_overlay.py`
 
 ---
+
+### 68 Face Landmarks 
+<img width="733" height="653" alt="image" src="https://github.com/user-attachments/assets/d531ff8b-af10-4e6a-bfd7-17b0dd32fb08" />
