@@ -29,8 +29,8 @@ Supports multiple lip PNGs:
 - `brownlinerandgloss.png`
 - `lip_image.png`
 
-Includes alpha blending for natural results
-Built to switch between multiple lipstick styles
+- Includes alpha blending for natural results
+- Built to switch between multiple lipstick styles
 
 File:
 `lip_overlay.py`
