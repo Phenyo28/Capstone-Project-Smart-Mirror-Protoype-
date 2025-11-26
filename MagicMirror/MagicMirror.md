@@ -28,6 +28,7 @@ MagicMirror² is an open-source modular smart mirror platform that displays cust
 `sudo apt install -y nodejs git build-essential`
 
 4. Clone MagicMirror²
+
 `cd ~`
 
 `git clone https://github.com/MichMich/MagicMirror`
