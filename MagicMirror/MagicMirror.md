@@ -24,17 +24,20 @@ MagicMirror² is an open-source modular smart mirror platform that displays cust
 
 2. Install dependencies
 `curl -sL https://deb.nodesource.com/setup_18.x | sudo -E bash -`
+
 `sudo apt install -y nodejs git build-essential`
 
-3. Clone MagicMirror²
+4. Clone MagicMirror²
 `cd ~`
+
 `git clone https://github.com/MichMich/MagicMirror`
+
 `cd MagicMirror`
 
-4. Install MagicMirror²
+6. Install MagicMirror²
 `npm install`
 
-5.  Run MagicMirror²
+7.  Run MagicMirror²
 `npm start`
 
 ## Configuration
