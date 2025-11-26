@@ -47,6 +47,8 @@ Features:
 File:
 `eyebrow_overlay.py`
 
+---
+
 #### 3. Foundation Overlay (Skin Tone Makeup)
 Simulates natural foundation using:
 - Face mask extraction
@@ -57,6 +59,8 @@ Simulates natural foundation using:
 File:
 `foundation_overlay.py`
 
+---
+
 #### 4. Afro Ponies (Hairstyle Overlay)
 Adds an Afro ponytail hairstyle on top of the head, aligned to forehead and hairline landmarks.
 Features:
@@ -66,3 +70,5 @@ Features:
 
 File:
 `afro_ponies_overlay.py`
+
+---
