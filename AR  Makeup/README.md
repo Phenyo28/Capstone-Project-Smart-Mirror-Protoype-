@@ -1,4 +1,4 @@
-## AR Makeup Module – Smart Mirror Project
+## AR Makeup Module
 
 This folder contains all Augmented Reality Makeup features for the Smart Mirror system.
 These features run in real-time using face landmarks, OpenCV, and custom overlay blending techniques.
