@@ -14,7 +14,7 @@ These features run in real-time using face landmarks, OpenCV, and custom overlay
 ---
 
 ### Features Included
-1. Lip Overlay System
+####1. Lip Overlay System
 Real-time lipstick application using landmark points (mouth region).
 Features:
 - Automatically detects upper & lower lips
@@ -33,7 +33,7 @@ File:
 
 ---
 
-2. Eyebrow Overlay System
+#### 2. Eyebrow Overlay System
 Applies eyebrow PNGs to both brows using 68 landmark detection.
 Features:
 - Rotates and mirrors PNG for left and right eyebrows
@@ -44,7 +44,7 @@ Features:
 File:
 `eyebrow_overlay.py`
 
-3. Foundation Overlay (Skin Tone Makeup)
+### 3. Foundation Overlay (Skin Tone Makeup)
 Simulates natural foundation using:
 - Face mask extraction
 - Color blending
@@ -54,7 +54,7 @@ Simulates natural foundation using:
 File:
 `foundation_overlay.py`
 
-4. Afro Ponies (Hairstyle Overlay)
+#### 4. Afro Ponies (Hairstyle Overlay)
 Adds an Afro ponytail hairstyle on top of the head, aligned to forehead and hairline landmarks.
 Features:
 - Tracks head rotation
