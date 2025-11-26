@@ -15,7 +15,9 @@ These features run in real-time using face landmarks, OpenCV, and custom overlay
 
 ### Features Included
 #### 1. Lip Overlay System
+
 Real-time lipstick application using landmark points (mouth region).
+
 Features:
 - Automatically detects upper & lower lips
 - Scales and rotates the lip PNG to match the user's lip shape
@@ -25,8 +27,9 @@ Features:
 - `pink_lip.png`
 - `brownlinerandgloss.png`
 - `lip_image.png`
-Includes alpha blending for natural results
-Built to switch between multiple lipstick styles
+
+- Includes alpha blending for natural results
+- Built to switch between multiple lipstick styles
 
 File:
 `lip_overlay.py`
