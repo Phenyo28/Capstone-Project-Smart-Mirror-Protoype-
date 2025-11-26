@@ -44,7 +44,7 @@ Features:
 File:
 `eyebrow_overlay.py`
 
-### 3. Foundation Overlay (Skin Tone Makeup)
+#### 3. Foundation Overlay (Skin Tone Makeup)
 Simulates natural foundation using:
 - Face mask extraction
 - Color blending
