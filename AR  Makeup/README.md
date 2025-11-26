@@ -64,6 +64,7 @@ File:
 
 #### 4. Afro Ponies (Hairstyle Overlay)
 Adds an Afro ponytail hairstyle on top of the head, aligned to forehead and hairline landmarks.
+
 Features:
 - Tracks head rotation
 - Scales with face size
