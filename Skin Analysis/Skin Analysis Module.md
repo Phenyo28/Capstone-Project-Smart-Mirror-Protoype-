@@ -20,7 +20,7 @@ File:
 This checks whether the face is:
 - Underexposed (too dark)
 - Overexposed (too bright)
-- Well-lit
+- Well-lit 
 
 Uses:
 - Mean pixel intensity in the ROI
