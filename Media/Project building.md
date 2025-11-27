@@ -57,11 +57,7 @@
 
 ### Makeup Image collection
 
-<img width="1034" height="431" alt="image" src="https://github.com/user-attachments/assets/befc08e0-7013-4e32-bf29-b0ca95edeae0" />
-
-<img width="613" height="348" alt="image" src="https://github.com/user-attachments/assets/4716f2ae-949e-4501-98d7-bae0fb53f8fc" />
-
-<img width="541" height="378" alt="image" src="https://github.com/user-attachments/assets/0523df7a-ce86-416e-b465-32258e89f0fb" /> <img width="547" height="277" alt="image" src="https://github.com/user-attachments/assets/011af68a-ed17-4536-9a63-fcc8bcbd790e" />
+<img width="1034" height="431" alt="image" src="https://github.com/user-attachments/assets/befc08e0-7013-4e32-bf29-b0ca95edeae0" /> <img width="613" height="348" alt="image" src="https://github.com/user-attachments/assets/4716f2ae-949e-4501-98d7-bae0fb53f8fc" /> <img width="541" height="378" alt="image" src="https://github.com/user-attachments/assets/0523df7a-ce86-416e-b465-32258e89f0fb" /> <img width="547" height="277" alt="image" src="https://github.com/user-attachments/assets/011af68a-ed17-4536-9a63-fcc8bcbd790e" />
 
 ### Facial landmarks and lip overlay
 <img width="495" height="436" alt="image" src="https://github.com/user-attachments/assets/5098d585-7a74-4506-9291-fa04863096f4" /> <img width="495" height="440" alt="image" src="https://github.com/user-attachments/assets/cdda4ea3-f19b-4d4d-92e5-eba2d9291275" />
