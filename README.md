@@ -64,6 +64,9 @@ With this smart mirror, users can:
 
 ## Makeup Overlay
 
+### Lipstick overlay
+<img width="1028" height="840" alt="image" src="https://github.com/user-attachments/assets/bfa29f32-ac2f-4bd3-944a-2cf0e830e8c1" />
+
 ### Foundation Overlay
 <img width="749" height="656" alt="image" src="https://github.com/user-attachments/assets/cea8dc55-58e9-4086-b953-e1d676b951b2" />
 
