@@ -11,14 +11,18 @@ With this smart mirror, users can:
 
 ## Hardware Components
 
-- Raspberry Pi 4 Model B (2GB+)
-- Raspberry Pi Camera (OV5647 – adjustable focus)
-- 7″ HDMI IPS LCD Display
-- Acrylic Two-Way Mirror Sheet
-- LED Light Strips (for illumination)
-- 32GB Micro SD Card (with Raspberry Pi OS)
-- Power Supply (5V/3A for Pi, 12V/2A for display if needed)
-- Monitor/Screen frame or DIY 3D housing
+| Component                                           | Description                              | Purpose                                                      |
+| --------------------------------------------------- | ---------------------------------------- | ------------------------------------------------------------ |
+| **Raspberry Pi 4 Model B (2GB+)**                   | Quad-core SBC with USB, HDMI, Wi-Fi      | Main processing unit for the smart mirror                    |
+| **Raspberry Pi Camera (OV5647 – adjustable focus)** | 5MP camera module with manual focus      | Captures face images for skin analysis & AR overlays         |
+| **7″ HDMI IPS LCD Display**                         | 1024×600 IPS mini-monitor                | Displays MagicMirror UI and camera results                   |
+| **Acrylic Two-Way Mirror Sheet**                    | Reflective & transparent mirror          | Allows the display to shine through while acting as a mirror |
+| **LED Light Strips**                                | White/neutral lighting                   | Provides even illumination for accurate skin analysis        |
+| **32GB Micro SD Card (Raspberry Pi OS)**            | Storage + operating system               | Holds code, ML models, MagicMirror, and assets               |
+| **Power Supply (5V/3A for Pi; 12V/2A for display)** | Stable power input                       | Powers the Raspberry Pi and LCD display safely               |
+| **Monitor/screen frame or DIY 3D housing**          | Wooden, acrylic, or 3D-printed enclosure | Holds the mirror, display, camera, and electronics together  |
+| **USB or Wireless Keyboard**                        | Full/mini keyboard                       | Used for system setup, debugging, and configuration          |
+
 
 
 ---
