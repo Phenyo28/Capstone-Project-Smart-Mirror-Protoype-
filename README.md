@@ -58,8 +58,21 @@ With this smart mirror, users can:
 ---
 
 ## Skin Analysis
+What it does: 
+- Brightness
+- Oiliness
+- Redness
+- Texture
 <img width="798" height="364" alt="image" src="https://github.com/user-attachments/assets/bf39b12b-6c25-4961-83fc-81ac984638eb" />
 
+What it does: 
+- Brightness
+- Oiliness
+- Redness
+- Texture
+- Acne Score
+- Dark Spots
+- Wrinkle Score
 <img width="1009" height="866" alt="image" src="https://github.com/user-attachments/assets/c9414369-5318-4886-bb3b-f8ed36a041e2" />
 
 ## Makeup Overlay
