@@ -33,6 +33,49 @@
 ### Camera Testing 
 <img width="1034" height="775" alt="image" src="https://github.com/user-attachments/assets/5e6e4bf7-7467-4630-bc00-26c48cc8fdb7" />
 <img width="695" height="605" alt="image" src="https://github.com/user-attachments/assets/7f417802-dc5e-4d5a-a930-5d60e7bf1bd6" />
+<img width="920" height="601" alt="image" src="https://github.com/user-attachments/assets/ed6266ab-7a6a-44d0-bb4c-b6c4ee748f36" />
+<img width="907" height="576" alt="image" src="https://github.com/user-attachments/assets/3815d762-1676-4d45-ba5d-9dd25a0ed277" />
+<img width="1034" height="582" alt="image" src="https://github.com/user-attachments/assets/cb50f70b-da8e-4bc7-996b-28ef2976643d" />
 
-### Component Setup
+
+## Component Setup
 <img width="944" height="584" alt="image" src="https://github.com/user-attachments/assets/cd191c3c-6588-4be7-a39b-32eda7e07564" />
+
+## Testing out Haar Cascades
+<img width="1034" height="581" alt="image" src="https://github.com/user-attachments/assets/a06b95a2-3146-4fd2-9d4c-ed3eb3fd7f72" />
+<img width="944" height="581" alt="image" src="https://github.com/user-attachments/assets/4ee415cf-f5d6-423a-9384-c07069647db3" />
+
+## Facial landmarks
+<img width="930" height="418" alt="image" src="https://github.com/user-attachments/assets/52286aee-8ad5-4fa7-bd08-5871a2cdc688" />
+
+<img width="633" height="603" alt="image" src="https://github.com/user-attachments/assets/0922edbf-f2cd-4ff9-9218-499f1158607c" />
+
+<img width="733" height="653" alt="image" src="https://github.com/user-attachments/assets/1352f6b8-0bec-43ca-afbf-add5b8e9642d" />
+
+
+## Makeup Testing
+
+### Makeup Image collection
+
+<img width="1034" height="431" alt="image" src="https://github.com/user-attachments/assets/befc08e0-7013-4e32-bf29-b0ca95edeae0" />
+
+<img width="613" height="348" alt="image" src="https://github.com/user-attachments/assets/4716f2ae-949e-4501-98d7-bae0fb53f8fc" />
+
+<img width="541" height="378" alt="image" src="https://github.com/user-attachments/assets/0523df7a-ce86-416e-b465-32258e89f0fb" /> <img width="547" height="277" alt="image" src="https://github.com/user-attachments/assets/011af68a-ed17-4536-9a63-fcc8bcbd790e" />
+
+### Facial landmarks and lip overlay
+<img width="495" height="436" alt="image" src="https://github.com/user-attachments/assets/5098d585-7a74-4506-9291-fa04863096f4" /> <img width="495" height="440" alt="image" src="https://github.com/user-attachments/assets/cdda4ea3-f19b-4d4d-92e5-eba2d9291275" />
+
+
+
+### Eyebrow overlay fail
+<img width="562" height="521" alt="image" src="https://github.com/user-attachments/assets/5a86a3cb-063b-43cf-b349-229f9473b22a" />
+
+## Hairstyle Module
+<img width="578" height="508" alt="image" src="https://github.com/user-attachments/assets/196c160d-5a4d-406c-87b6-139a6d5b6755" /> <img width="589" height="543" alt="image" src="https://github.com/user-attachments/assets/c75ccb14-fae2-4836-88ea-18e146004d67" />
+
+## Skin Analysis
+<img width="1009" height="866" alt="image" src="https://github.com/user-attachments/assets/8383c92d-ab97-461a-b862-02c69dd17d44" />
+
+
+
