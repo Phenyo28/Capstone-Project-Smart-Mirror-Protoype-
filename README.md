@@ -9,6 +9,7 @@ With this smart mirror, users can:
 4. Analyze skin and hair condition with the built-in camera and AI-based detection tools.
 ---
 
+
 ## Hardware Components
 
 | Component                                           | Description                              | Purpose                                                      |
@@ -20,7 +21,7 @@ With this smart mirror, users can:
 | **LED Light Strips**                                | White/neutral lighting                   | Provides even illumination for accurate skin analysis        |
 | **32GB Micro SD Card (Raspberry Pi OS)**            | Storage + operating system               | Holds code, ML models, MagicMirror, and assets               |
 | **Power Supply (5V/3A for Pi; 12V/2A for display)** | Stable power input                       | Powers the Raspberry Pi and LCD display safely               |
-| **Monitor/screen frame or DIY 3D housing**          | Wooden, acrylic, or 3D-printed enclosure | Holds the mirror, display, camera, and electronics together  |
+| **Monitor/screen frame or DIY 3D housing**          | Wooden, acrylic, or lassr cut enclosure | Holds the mirror, display, camera, and electronics together  |
 | **USB or Wireless Keyboard**                        | Full/mini keyboard                       | Used for system setup, debugging, and configuration          |
 
 
