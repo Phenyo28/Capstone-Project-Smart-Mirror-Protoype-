@@ -57,3 +57,14 @@ With this smart mirror, users can:
 <img width="1235" height="617" alt="Screenshot 2025-09-10 113918" src="https://github.com/user-attachments/assets/fe5ddf67-7e9f-4938-9b4c-a99cadcc726d" />
 ---
 
+## Skin Analysis
+<img width="798" height="364" alt="image" src="https://github.com/user-attachments/assets/bf39b12b-6c25-4961-83fc-81ac984638eb" />
+
+<img width="1009" height="866" alt="image" src="https://github.com/user-attachments/assets/c9414369-5318-4886-bb3b-f8ed36a041e2" />
+
+## Makeup Overlay
+
+### Foundation Overlay
+<img width="749" height="656" alt="image" src="https://github.com/user-attachments/assets/cea8dc55-58e9-4086-b953-e1d676b951b2" />
+
+
